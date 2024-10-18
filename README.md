@@ -99,6 +99,7 @@ This script launches a graphical interface where you can play Gobang against the
 - The board is updated in real-time, showing both human and AI moves.
 - The script announces the winner at the end of each game and provides an option to start a new game.
 - Click the "New Game" button after a match to reset the board and play again.
+![image](https://github.com/user-attachments/assets/83a5dab0-29e4-4ce0-9cb8-5c8ae70619e7)
 
 ### Test the AI
 
@@ -114,7 +115,8 @@ python ai_test.py
 - Adjusts the MCTS exploration constant (`c_puct`) and the number of iterations based on the outcomes of each game to balance exploration and exploitation.
 - The script simulates multiple games between two models (Model 1 and Model 2) with varying parameter settings, tracking win rates and ties.
 - Uses a real-time board display to visualize the moves during the game.
-![image](https://github.com/user-attachments/assets/55a7e175-68b0-4159-b2e1-24167509bf84)
+![image](https://github.com/user-attachments/assets/0cec5be4-d90f-42c5-bd13-8640dc5f140e)
+
 
 
 ## Contributing
