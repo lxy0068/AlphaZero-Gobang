@@ -110,12 +110,11 @@ python ai_test.py
 
 **Features of `ai_test.py`:**
 
--  Sets up two instances of the AlphaZero model with random initial parameters.
+- Sets up two instances of the AlphaZero model with random initial parameters.
 - Adjusts the MCTS exploration constant (`c_puct`) and the number of iterations based on the outcomes of each game to balance exploration and exploitation.
 - The script simulates multiple games between two models (Model 1 and Model 2) with varying parameter settings, tracking win rates and ties.
 - Uses a real-time board display to visualize the moves during the game.
 
-![image-20241018172056982](C:\Users\ftlxy\AppData\Roaming\Typora\typora-user-images\image-20241018172056982.png)
 
 ## Contributing
 
