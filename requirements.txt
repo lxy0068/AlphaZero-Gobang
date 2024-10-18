@@ -1,0 +1,7 @@
+numpy==1.23.5
+torch==2.0.1
+torchvision==0.15.2
+pygame==2.3.0
+PyQt5==5.15.9
+jsonschema==4.19.0
+multiprocessing-logging==0.3.1
