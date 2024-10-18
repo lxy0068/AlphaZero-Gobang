@@ -114,6 +114,7 @@ python ai_test.py
 - Adjusts the MCTS exploration constant (`c_puct`) and the number of iterations based on the outcomes of each game to balance exploration and exploitation.
 - The script simulates multiple games between two models (Model 1 and Model 2) with varying parameter settings, tracking win rates and ties.
 - Uses a real-time board display to visualize the moves during the game.
+![image](https://github.com/user-attachments/assets/55a7e175-68b0-4159-b2e1-24167509bf84)
 
 
 ## Contributing
